@@ -3,7 +3,7 @@
          -#@@@@@@@@@@@@@#-           -------- 
        =%@@%%@@@@@@@@@%%@@%=         Name: Miloua Mokhtar 
       #@@@- .-=-----=-. :@@@#        Occupation: Web Developer 
-     -@%@@:             :@@%@-       Language: JavaScript, TypeScript 
+     -@%@@:             :@@%@-       Languages: JavaScript, TypeScript 
     #@%@@=               =@@%@#      Skills: NextJs, Astro, React Native, TailwindCSS 
     +@@@@.               .@@@@+      Email: miloua23@gmail.com 
     =@%@@=               =@@%@=    
